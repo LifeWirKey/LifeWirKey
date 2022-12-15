@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @LifeWirKey
-- 👀 I’m interested in web designing and programming using java language
 - 🌱 I’m currently learning java programming. And I am a beginner here in GitHub
 
 <!---
