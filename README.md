@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @LifeWirKey
-- 🌱 I’m currently learning java programming. And I am new here in GitHub
 
 <!---
 LifeWirKey/LifeWirKey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
