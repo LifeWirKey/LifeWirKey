@@ -6,10 +6,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 🔥 My GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=LifeWirKey&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=LifeWirKey&theme=github-tokyonight)
 
-## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LifeWirKey&show_icons=true&theme=github_dark)
 
 
 
