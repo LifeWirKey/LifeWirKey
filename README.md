@@ -1,4 +1,6 @@
-# 👋 Hello po!
+# 👋 Hello!
+
+<p>I'm Lifewirkey. Keeping my life working one keystroke at a time.</p>
 
 <!---
 LifeWirKey/LifeWirKey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
